@@ -1,0 +1,23 @@
+{
+    "action": {
+        "bri": 0,
+        "ct": 500,
+        "effect": "none",
+        "hue": 0,
+        "on": false,
+        "sat": 0,
+        "xy": [ 0, 0 ]
+    },
+    "devicemembership": [],
+    "etag": "0b32030b31ef30a4446c9adff6a6f9e5",
+    "hidden": false,
+    "id": "32772",
+    "lights": [ "3","42","43" ],
+    "lightsequence": [ "42","43","3" ],
+    "multideviceids": ["2"],
+    "name": "Livingroom",
+    "scenes": [
+        { "id": "1", "name": "warmlight" }
+    ],
+    "state": 0
+}

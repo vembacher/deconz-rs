@@ -1,0 +1,9 @@
+[
+  {
+    "error": {
+      "address": "/lights/1/state",
+      "description": "invalid value, 1000, for parameter, bri",
+      "type": 7
+    }
+  }
+]

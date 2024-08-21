@@ -1,0 +1,4 @@
+[
+    { "success": { "/groups/1/name": "Living Room" } },
+    { "success": { "/groups/1/lights": [ "1", "4" ] } }
+]

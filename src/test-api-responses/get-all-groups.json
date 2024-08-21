@@ -1,0 +1,14 @@
+{
+    "1": {
+        "devicemembership": [],
+        "etag": "ab5272cfe11339202929259af22252ae",
+        "hidden" : false,
+        "name": "Living Room"
+    },
+    "2": {
+        "devicemembership": ["3"],
+        "etag": "030cf8c1c0025420f3a0659afab251f5",
+        "hidden" : false,
+        "name": "Kitchen"
+    }
+}

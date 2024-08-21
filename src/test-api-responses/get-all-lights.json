@@ -1,0 +1,46 @@
+{
+    "1": {
+        "etag": "026bcfe544ad76c7534e5ca8ed39047c",
+        "hascolor": true,
+        "manufacturer": "dresden elektronik",
+        "modelid": "FLS-PP3",
+        "name": "Light 1",
+        "pointsymbol": {},
+        "state": {
+            "alert": "none",
+            "bri": 111,
+            "colormode": "ct",
+            "ct": 307,
+            "effect": "none",
+            "hue": 7998,
+            "on": false,
+            "reachable": true,
+            "sat": 172,
+            "xy": [
+                0.421253,
+                0.39921
+            ]
+        },
+        "swversion": "020C.201000A0",
+        "type": "Extended color light",
+        "uniqueid": "00:21:2E:FF:FF:00:73:9F-0A"
+    },
+    "2": {
+        "etag": "026bcfe544ad76c7534e5ca8ed39047c",
+        "hascolor": false,
+        "manufacturer": "dresden elektronik",
+        "modelid": "FLS-PP3 White",
+        "name": "Light 2",
+        "pointsymbol": {},
+        "state": {
+            "alert": "none",
+            "bri": 1,
+            "effect": "none",
+            "on": false,
+            "reachable": true
+        },
+        "swversion": "020C.201000A0",
+        "type": "Dimmable light",
+        "uniqueid": "00:21:2E:FF:FF:00:73:9F-0B"
+    }
+}

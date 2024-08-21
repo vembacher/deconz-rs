@@ -1,0 +1,6 @@
+[
+    { "success": { "/groups/1/action/on": true   }},
+    { "success": { "/groups/1/action/bri": 180   }},
+    { "success": { "/groups/1/action/hue": 43680 }},
+    { "success": { "/groups/1/action/sat": 255   }}
+]
